@@ -1,5 +1,5 @@
 {
-  "name": "@dev_jdeed/fluid-animation-react",
+  "name": "fluid-animation-react-webgl",
   "version": "1.0.2",
   "description": "Fluid media animation for React powered by WebGL.",
   "author": "IbbyDev",
