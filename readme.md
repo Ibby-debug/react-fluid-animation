@@ -1,5 +1,3 @@
-
-
 > Fluid media simulation for React powered by WebGL.
 
 ## Install
