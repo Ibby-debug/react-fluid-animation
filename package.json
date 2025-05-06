@@ -30,6 +30,7 @@
     "test": "cross-env CI=1 react-scripts test --env=jsdom",
     "test:watch": "react-scripts test --env=jsdom",
     "prepare": "yarn build",
+    "release": "yarn run build && changeset publish",
     "predeploy": "cd example && yarn install && yarn build",
     "deploy": "gh-pages -d example/build"
   },
